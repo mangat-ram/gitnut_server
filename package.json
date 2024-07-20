@@ -1,0 +1,24 @@
+{
+  "name": "gitnut_server",
+  "version": "1.0.0",
+  "description": "socializing to take open source contributors to each other.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangat-ram/gitnut_server.git"
+  },
+  "author": "Mangat Leelaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangat-ram/gitnut_server/issues"
+  },
+  "homepage": "https://github.com/mangat-ram/gitnut_server#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "prettier": "^3.3.3"
+  }
+}
